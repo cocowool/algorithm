@@ -1,2 +1,6 @@
-# algorithm
-My algorithm repository .
+# Algorithm
+
+Algorithms repository, Welcome contribute your algorithm code.
+
+* quick-sort
+
